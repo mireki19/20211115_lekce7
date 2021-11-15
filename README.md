@@ -26,3 +26,4 @@ E
 
 Eins zwei drei
 
+metoda TEST
