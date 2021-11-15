@@ -1,5 +1,12 @@
 # 20211115 lekce 7
 
+Prvni zmena
+
+Prvni
+Druhy
+Treti
+Ctvrty
+
 Test
 
 1
